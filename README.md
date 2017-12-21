@@ -1,4 +1,4 @@
-# Модель учета переработки медицинских отходов с помощью технологии Blockchain и мультиподписи
+# Модель учета переработки медицинских отходов с использованием технологии Blockchain и мультиподписи
 *Автор: Кашинцев Марк*
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">лицензии Creative Commons С указанием авторства-Некоммерческая-Без производных 4.0 Всемирная</a>.
