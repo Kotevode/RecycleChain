@@ -1,8 +1,6 @@
 # Модель учета переработки медицинских отходов с использованием технологии Blockchain и мультиподписи
 *Автор: Кашинцев Марк*
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">лицензии Creative Commons С указанием авторства-Некоммерческая-Без производных 4.0 Всемирная</a>.
-
 ## Основные субъекты модели
 
 * **Пара ключей** *(Kpub, K)* - два числа, между которыми существует функциональная зависимость *Kpub = H(K)*, где *H(x)* - криптографическая хеш-функция.
@@ -142,3 +140,5 @@
 ### Недостатки
 
 * Так как операции производятся при помощи цифрового актива (т.е. криптовалюты), может возникнуть потребность в создании отдельного инструмента для интеграции системы с широкоиспользуемыми системами учета 1C и SAP.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">лицензии Creative Commons С указанием авторства-Некоммерческая-Без производных 4.0 Всемирная</a>.
